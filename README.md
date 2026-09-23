@@ -29,7 +29,3 @@ style.css
 script.js
 fallback.jpg
 vid/coverfire.mp4
-
-License
-
-This project is open source and available under the MIT License.
